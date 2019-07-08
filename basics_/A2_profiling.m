@@ -1,4 +1,4 @@
-% How to profile and time code
+% How to profile and time codes.
 %% A simple function
 var1 = 6;
 var2 = -1;
