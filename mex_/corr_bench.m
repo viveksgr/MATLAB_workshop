@@ -6,5 +6,5 @@ z = corr_(x,y);
 toc
 
 tic
-z = corr__mex(x,y);
+z = corr_mex(x,y);
 toc
