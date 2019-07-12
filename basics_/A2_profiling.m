@@ -23,7 +23,8 @@ var6 = -9;
 check_numbers(var5,var6);
 profile viewer % View profile
 
-profile on -history % Turn on profile history
+profile clear
+profile('on', '-history') % Turn on profile history
 var5 = -8;
 var6 = -9;
 check_numbers(var5,var6);
